@@ -21,8 +21,8 @@ Available pre-compiled binaries for installation:
    • <kbd>Ubuntu 24.04 LTS</kbd> <sub><i>Noble Numbat</i></sub>
    • <kbd>Debian 13</kbd> <sub><i>Trixie</i></sub>
    • <kbd>Debian 12</kbd> <sub><i>Bookworm</i></sub>
+   • <kbd>Fedora 44</kbd>
    • <kbd>Fedora 43</kbd>
-   • <kbd>Fedora 42</kbd>
 
 <sub>We are also packaged in <kbd>Arch Linux</kbd>'s <a href="https://archlinux.org/packages/extra/x86_64/cockatrice">official extra repository</a>, courtesy of @FFY00.</sub>
 <sub>General Linux support is available via a <kbd>flatpak</kbd> package at <a href="https://flathub.org/apps/io.github.Cockatrice.cockatrice">Flathub</a>!</sub>
